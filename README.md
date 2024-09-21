@@ -22,6 +22,8 @@ JavaScript: Core logic for agent movement and simulation updates.
 ### Different colors:
 ![Red](images/red.png)
 ![White](images/white.png)
+
+### Different sizes:
 ![Yellow zoom out](images/smallYellow.png)
 ![Yellow zoom in](images/bigYellow.png)
 
