@@ -15,17 +15,17 @@ JavaScript: Core logic for agent movement and simulation updates.
 ## Results:
 
 ### Evolution of a slime mold:
-![Beginning state](images/beginning.jpg)
-![Middle state](images/middle.jpg)
-![End state](images/end.jpg)
+![Beginning state](images/beginning.png)
+![Middle state](images/middle.png)
+![End state](images/end.png)
 
 ### Different colors:
-![Red](images/red.jpg)
-![White](images/white.jpg)
-![Yellow zoom out](images/smallYellow.jpg)
-![Yellow zoom in](images/bigYellow.jpg)
+![Red](images/red.png)
+![White](images/white.png)
+![Yellow zoom out](images/smallYellow.png)
+![Yellow zoom in](images/bigYellow.png)
 
-### GIF:
+### Process of slime molds:
 ![Process of slime molds](images/slimeMolds.gif)
 
 ## Future Improvements:
