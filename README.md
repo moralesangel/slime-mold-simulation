@@ -13,7 +13,7 @@ p5.js: A JavaScript library for creative coding, primarily used for rendering th
 JavaScript: Core logic for agent movement and simulation updates.
 
 ## Results:
-
+By adjusting speed, sensors distance and sensors angle, we can create different patterns.
 ### Evolution of a slime mold:
 ![Beginning state](images/beginning.png)
 ![Middle state](images/middle.png)
