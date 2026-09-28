@@ -3,7 +3,7 @@ let numMolds = 6000;
 let d;
 
 function setup() {
-  createCanvas(600, 600);
+  createCanvas(windowWidth, windowHeight);
   angleMode(DEGREES);
   d = pixelDensity();
 
